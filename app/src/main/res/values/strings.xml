@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecordiApp</string>
+    <string name="title_activity_home">home</string>
+
+
+    <string-array name="accounttype">
+        <item>producer</item>
+        <item>artist</item>
+        <item>listener</item>
+
+    </string-array>
+
+</resources>
